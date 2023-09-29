@@ -6,5 +6,5 @@
 ### · Navbar con estructura de navegación simplificada, en base a objetivos de promoción (conocer la marca) y tienda (venta de productos).
 ### · Header con información de marca e información del perfil de cliente.
 ### · Galería de productos y proyectos relevantes de la marca.
-### · Estructura de tienda con principales productos.
+### · Galería de Tienda con principales productos.
 ### · Sección de contacto y Footer de cierre con redes sociales de marca.
