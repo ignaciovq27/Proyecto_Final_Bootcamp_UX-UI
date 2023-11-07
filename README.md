@@ -1,4 +1,5 @@
 # PROYECTO FINAL UX-UI (Bootcamp Diseño UX / UI)
+# Caso de estudio PITI PALACIOS MODA
 
 ## Desafío: Maquetación de sitio web con html, css y Boostrap, en base a investigación de usuario y marca.
 ## Build: https://ignaciovq27.github.io/Proyecto_Final_Bootcamp_UX-UI/
